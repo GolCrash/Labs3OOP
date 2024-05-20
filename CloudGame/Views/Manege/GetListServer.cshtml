@@ -1,0 +1,45 @@
+﻿@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.Server;
+@model ServerDto[]
+@{
+    ViewBag.Title = "Список серверов";
+}
+
+<div class="container">
+    <div class="container">
+        <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.Server), ManageController.Manage)">Создать сервер</a>
+    </div>
+</div>
+
+<div class="container mt-2">
+    <h3 class="text-center mb-4">Список клиентов</h3>
+    <table class="table table-bordered table-hover align-middle text-center">
+        <thead>
+            <tr>
+                <th scope="col">Имя сервера</th>
+                <th scope="col">Игры</th>
+                <th scope="col">Характеристика</th>
+                <th scope="col">Сведения</th>
+                <th scope="col">Изменить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.NameServer</td>
+                        <td>@item.Games</td>
+                        <td>@item.Сharacteristic</td>
+                        <td>
+                            @Html.ActionLink("Смотреть", nameof(ManageController.GetInfoServers), ManageController.Manage, new { isnServer = item.IsnNode })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Изменить", nameof(ManageController.GetEditServer), ManageController.Manage, new { isnServer = item.IsnNode })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

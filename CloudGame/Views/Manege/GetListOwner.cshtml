@@ -1,0 +1,43 @@
+﻿@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.Owner;
+@model OwnerDto[]
+@{
+    ViewBag.Title = "Список владельцев";
+}
+
+<div class="container">
+    <div class="container">
+        <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.Owner), ManageController.Manage)">Создать владельца</a>
+    </div>
+</div>
+
+<div class="container mt-2">
+    <h3 class="text-center mb-4">Список владельцев</h3>
+    <table class="table table-bordered table-hover align-middle text-center">
+        <thead>
+            <tr>
+                <th scope="col">Имя</th>
+                <th scope="col">Дата регистрации</th>
+                <th scope="col">Сведения</th>
+                <th scope="col">Изменить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.NameOwn</td>
+                        <td>@item.DataRegistration</td>
+                        <td>
+                            @Html.ActionLink("Смотреть", nameof(ManageController.GetInfoOwners), ManageController.Manage, new { isnOwner = item.IsnNode })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Изменить", nameof(ManageController.GetEditOwner), ManageController.Manage, new { isnOwner = item.IsnNode })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,74 @@
+﻿@using CloudGame.Components.Extensions;
+@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.User;
+@model InfoUserDto
+@{
+    ViewBag.Title = "Сведения о пользователе";
+}
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4">
+            <h3 class="text-center mb-4">Сведения о пользователе</h3>
+            <div class="row">
+                <div class="col">
+                    @await Component.TextAsync(Html, m => m.NameUser, readOnly: true)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    @await Component.TextAsync(Html, m => m.Tariff, readOnly: true)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@await Html.PartialAsync("_setBindWithServerPartial", new SetBlindWithServerDto
+{
+    IsnUser = Model.IsnNode
+})
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4" id="MesDistributionSchedules_Form">
+            <h3 class="text-center mb-4">Клиенты</h3>
+            <table class="table table-bordered table-hover align-middle text-center">
+                <thead>
+                    <tr>
+                        <th scope="col">Имя сервера</th>
+                        <th scope="col">Игры</th>
+                        <th scope="col">Характеристики</th>
+                        <th scope="col">День рождения</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Servers)
+                    {
+                        <tr>
+                            <td>@item.NameServer</td>
+                            <td>@item.Games</td>
+                            <td>@item.Сharacteristic</td>
+                            <td>@Html.ActionLink("Открепить", nameof(ManageController.DeleteBindWithServer), ManageController.Manage, new SetBlindWithServerDto { IsnUser = Model.IsnNode, IsnServer = item.IsnNode })</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4">
+            <div class="form-group form-element">
+                <div class="float-start">
+                    <a class="btn btn-outline-secondary" href="@Url.ActionLink(nameof(ManageController.GetListOwners), ManageController.Manage)">К списку владельцев</a>
+                </div>
+                <div class="float-end">
+                    <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.GetEditUser), ManageController.Manage, new { isnUser = Model.IsnNode })">Редактировать</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

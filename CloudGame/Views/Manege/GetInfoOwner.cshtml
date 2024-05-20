@@ -1,0 +1,69 @@
+﻿@using CloudGame.Components.Extensions;
+@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.Owner;
+@model InfoOwnerDto
+@{
+    ViewBag.Title = "Сведения о владельце";
+}
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4">
+            <h3 class="text-center mb-4">Сведения о владельце</h3>
+            <div class="row">
+                <div class="col">
+                    @await Component.TextAsync(Html, m => m.NameOwn, readOnly: true)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    @await Component.TextAsync(Html, m => m.DataRegistration, readOnly: true)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4" id="MesDistributionSchedules_Form">
+            <h3 class="text-center mb-4">Сервера владельца</h3>
+            <table class="table table-bordered table-hover align-middle text-center">
+                <thead>
+                    <tr>
+                        <th scope="col">Название сервера</th>
+                        <th scope="col">Игры</th>
+                        <th scope="col">Характеристики</th>
+                        <th scope="col">Сведения</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Servers)
+                    {
+                        <tr>
+                            <td>@item.NameServer</td>
+                            <td>@item.Games</td>
+                            <td>@item.Сharacteristic</td>
+                            <td>@Html.ActionLink("Смотреть", nameof(ManageController.GetInfoServers), ManageController.Manage, new { isnServer = item.IsnNode })</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4">
+            <div class="form-group form-element">
+                <div class="float-start">
+                    <a class="btn btn-outline-secondary" href="@Url.ActionLink(nameof(ManageController.GetListOwners), ManageController.Manage)">К списку центров</a>
+                </div>
+                <div class="float-end">
+                    <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.GetEditOwner), ManageController.Manage, new { isnOwner = Model.IsnNode })">Редактировать</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

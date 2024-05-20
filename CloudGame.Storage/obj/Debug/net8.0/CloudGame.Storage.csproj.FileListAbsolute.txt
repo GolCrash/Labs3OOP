@@ -1,0 +1,12 @@
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\bin\Debug\net8.0\CloudGame.Storage.deps.json
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\bin\Debug\net8.0\CloudGame.Storage.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\bin\Debug\net8.0\CloudGame.Storage.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.csproj.AssemblyReference.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.AssemblyInfoInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.AssemblyInfo.cs
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.csproj.CoreCompileInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\refint\CloudGame.Storage.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\CloudGame.Storage.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage\obj\Debug\net8.0\ref\CloudGame.Storage.dll

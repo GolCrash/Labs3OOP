@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\shared\\setblindwithserverpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\shared\\setblindwithserverpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\features\\manager\\usermeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\features\\manager\\usermeneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame.logic\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|solutionrelative:cloudgame.logic\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame.logic\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|solutionrelative:cloudgame.logic\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\features\\interfaces\\manager\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\features\\interfaces\\manager\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getlistusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getlistusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getinfouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getinfouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\features\\interfaces\\manager\\iownermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\features\\interfaces\\manager\\iownermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getinfoserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getinfoserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getinfoowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getinfoowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\server.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\server.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\owner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\owner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getlistserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getlistserver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\views\\manege\\getlistowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\views\\manege\\getlistowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame.logic\\service\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|solutionrelative:cloudgame.logic\\service\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame\\features\\manager\\ownermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6CCA20D-8333-4396-8141-695813F6F0D1}|CloudGame\\CloudGame.csproj|solutionrelative:cloudgame\\features\\manager\\ownermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u043B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\cloudgame\\cloudgame.logic\\interfaces\\service\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3ED07ED-1855-4CE2-9474-3B668479E1FB}|CloudGame.Logic\\CloudGame.Logic.csproj|solutionrelative:cloudgame.logic\\interfaces\\service\\iownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Program.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Program.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Program.cs",
+              "RelativeToolTip": "CloudGame\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:53:56.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetBlindWithServerPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Shared\\SetBlindWithServerPartial.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Shared\\SetBlindWithServerPartial.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Shared\\SetBlindWithServerPartial.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Shared\\SetBlindWithServerPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:28:14.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:23:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetListUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListUsers.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetListUsers.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListUsers.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetListUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:22:15.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetListServer.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListServer.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetListServer.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListServer.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetListServer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:14:59.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetInfoUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetInfoUser.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetInfoUser.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetInfoUser.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetInfoUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:09:15.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetinfoServer.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetinfoServer.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetinfoServer.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetinfoServer.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetinfoServer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:05:22.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetInfoOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetInfoOwner.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetInfoOwner.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetInfoOwner.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetInfoOwner.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:59:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\User.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\User.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\User.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:58:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Interfaces\\Manager\\IUserManager.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Features\\Interfaces\\Manager\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Interfaces\\Manager\\IUserManager.cs",
+              "RelativeToolTip": "CloudGame\\Features\\Interfaces\\Manager\\IUserManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA2wB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:50:40.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "CloudGame.Logic\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Service\\UserService.cs",
+              "RelativeToolTip": "CloudGame.Logic\\Service\\UserService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:40:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Interfaces\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "CloudGame.Logic\\Interfaces\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Interfaces\\Service\\IUserService.cs",
+              "RelativeToolTip": "CloudGame.Logic\\Interfaces\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:39:37.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMeneger.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Manager\\UserMeneger.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Features\\Manager\\UserMeneger.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Manager\\UserMeneger.cs",
+              "RelativeToolTip": "CloudGame\\Features\\Manager\\UserMeneger.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAuwIEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:37:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOwnerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Interfaces\\Manager\\IOwnerManager.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Features\\Interfaces\\Manager\\IOwnerManager.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Interfaces\\Manager\\IOwnerManager.cs",
+              "RelativeToolTip": "CloudGame\\Features\\Interfaces\\Manager\\IOwnerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:32:29.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "CloudGame\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAmwNgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:07:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetListOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListOwner.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\GetListOwner.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\GetListOwner.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\GetListOwner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T08:21:10.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Service\\OwnerService.cs",
+              "RelativeDocumentMoniker": "CloudGame.Logic\\Service\\OwnerService.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Service\\OwnerService.cs",
+              "RelativeToolTip": "CloudGame.Logic\\Service\\OwnerService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:30:48.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Owner.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\Owner.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\Owner.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\Owner.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\Owner.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:16:04.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Server.cshtml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\Server.cshtml",
+              "RelativeDocumentMoniker": "CloudGame\\Views\\Manege\\Server.cshtml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Views\\Manege\\Server.cshtml",
+              "RelativeToolTip": "CloudGame\\Views\\Manege\\Server.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T07:18:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OwnerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Manager\\OwnerManager.cs",
+              "RelativeDocumentMoniker": "CloudGame\\Features\\Manager\\OwnerManager.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame\\Features\\Manager\\OwnerManager.cs",
+              "RelativeToolTip": "CloudGame\\Features\\Manager\\OwnerManager.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:26:05.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOwnerService.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Interfaces\\Service\\IOwnerService.cs",
+              "RelativeDocumentMoniker": "CloudGame.Logic\\Interfaces\\Service\\IOwnerService.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\3\u041B\u0430\u0431\u0430_\u043F\u0440\u043E\u0435\u043A\u0442\\CloudGame\\CloudGame.Logic\\Interfaces\\Service\\IOwnerService.cs",
+              "RelativeToolTip": "CloudGame.Logic\\Interfaces\\Service\\IOwnerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:30:33.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

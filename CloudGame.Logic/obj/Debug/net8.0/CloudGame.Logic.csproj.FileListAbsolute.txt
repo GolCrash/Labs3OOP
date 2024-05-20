@@ -1,0 +1,17 @@
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Logic.deps.json
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Logic.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Logic.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Storage.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Storage.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.csproj.AssemblyReference.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.AssemblyInfoInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.AssemblyInfo.cs
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.csproj.CoreCompileInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGam.70F54B88.Up2Date
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\refint\CloudGame.Logic.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\CloudGame.Logic.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\obj\Debug\net8.0\ref\CloudGame.Logic.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Logic\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.pdb

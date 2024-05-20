@@ -1,0 +1,17 @@
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.deps.json
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.runtimeconfig.json
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.MS_SQL.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\bin\Debug\net8.0\CloudGame.Storage.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.csproj.AssemblyReference.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.AssemblyInfoInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.AssemblyInfo.cs
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.csproj.CoreCompileInputs.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGam.9E746A30.Up2Date
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\refint\CloudGame.Storage.MS_SQL.dll
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.pdb
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\CloudGame.Storage.MS_SQL.genruntimeconfig.cache
+C:\Users\HeKuT\OneDrive\Рабочий стол\3Лаба_проект\CloudGame\CloudGame.Storage.MS_SQL\obj\Debug\net8.0\ref\CloudGame.Storage.MS_SQL.dll

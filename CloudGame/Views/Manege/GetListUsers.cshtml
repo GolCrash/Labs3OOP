@@ -1,0 +1,43 @@
+﻿@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.User;
+@model UserDto[]
+@{
+    ViewBag.Title = "Список пользователей";
+}
+
+<div class="container">
+    <div class="container">
+        <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.User), ManageController.Manage)">Создать пользователя</a>
+    </div>
+</div>
+
+<div class="container mt-2">
+    <h3 class="text-center mb-4">Список тренеров</h3>
+    <table class="table table-bordered table-hover align-middle text-center">
+        <thead>
+            <tr>
+                <th scope="col">Имя</th>
+                <th scope="col">Тарифф</th>
+                <th scope="col">Сведения</th>
+                <th scope="col">Изменить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.NameUser</td>
+                        <td>@item.Tariff</td>
+                        <td>
+                            @Html.ActionLink("Смотреть", nameof(ManageController.GetInfoUsers), ManageController.Manage, new { isnUser = item.IsnNode })
+                        </td>
+                        <td>
+                            @Html.ActionLink("Изменить", nameof(ManageController.GetEditUser), ManageController.Manage, new { isnUser = item.IsnNode })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

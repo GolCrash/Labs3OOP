@@ -1,0 +1,69 @@
+﻿@using CloudGame.Features.Interfaces.Manager;
+@using CloudGame.Components.Extensions;
+@using CloudGame.Controllers;
+@using CloudGame.Features.DtoModels.Server;
+@inject IOwnerManager _ownerManager
+@model EditServerDto
+@{
+    ViewBag.Title = "Сервера";
+
+    var owners = await _ownerManager.GetListOwnersDropDown();
+}
+
+<div class="container m-auto w-75 mx-auto mt-3">
+    <div class="row bg-white shadow-sm">
+        <div class="col border rounded p-4">
+            <h3 class="text-center mb-4">Клиент</h3>
+            @using (Html.BeginForm(Model.IsnNode == Guid.Empty ? nameof(ManageController.CreateServer) : nameof(ManageController.UpdateServer), ManageController.Manage, FormMethod.Post))
+            {
+                @Html.HiddenFor(x => x.IsnNode)
+                <div class="form-group mb-3 form-element text-danger">
+                    @Html.ValidationSummary(true)
+                </div>
+                <div class="row">
+                    <div class="col">
+                        @await Component.TextAsync(Html, m => m.NameServer)
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        @await Component.TextAsync(Html, m => m.Games)
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        @await Component.TextAsync(Html, m => m.Сharacteristic)
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        @await Component.SelectAsync(Html, m => m.IsnOwner, owners)
+                    </div>
+                </div>
+                <div class="form-group mb-3 form-element">
+                    <div class="float-start">
+                        @if (Model.IsnNode == Guid.Empty)
+                        {
+                            <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.GetListServer), ManageController.Manage)">Назад</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-outline-success" href="@Url.ActionLink(nameof(ManageController.GetInfoServers), ManageController.Manage, new { isnServer = Model.IsnNode })">Назад</a>
+                        }
+                    </div>
+                    <div class="float-end">
+                        @if (Model.IsnNode == Guid.Empty)
+                        {
+                            <button type="submit" value="true" class="btn btn-outline-primary">Добавить</button>
+                        }
+                        else
+                        {
+                            <a class="btn btn-outline-danger" href="@Url.ActionLink(nameof(ManageController.DeleteServer), ManageController.Manage, new { isnServer = Model.IsnNode })">Удалить</a>
+                            <button type="submit" value="true" class="btn btn-outline-secondary">Изменить</button>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

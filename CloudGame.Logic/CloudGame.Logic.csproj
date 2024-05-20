@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CloudGame.Storage.MS_SQL\CloudGame.Storage.MS_SQL.csproj" />
+    <ProjectReference Include="..\CloudGame.Storage\CloudGame.Storage.csproj" />
+  </ItemGroup>
+
+</Project>
